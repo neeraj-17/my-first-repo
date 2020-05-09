@@ -1,1 +1,1 @@
-My first repository
+learning git is going well so far
